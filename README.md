@@ -1,1 +1,1 @@
-# Telling structured apert from random by means of entropies!
+# Telling structured apart from random by means of entropies.
